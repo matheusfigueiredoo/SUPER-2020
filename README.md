@@ -1,7 +1,5 @@
 # SUPER-2020
 
-Descrição: 
-
 Projeto de Automação para Separação de Caixas Coloridas 
 
 De 2020 - mar a 2021 - mar
